@@ -4,9 +4,8 @@
 # Servo groups are defined as tuples (start_index, end_index), representing
 # the range of servo channels that belong to the group. In this example,
 # we have three groups:
-#   - Group 1: Servos 0 to 5
-#   - Group 2: Servos 6 to 10
-#   - Group 3: Servos 11 to 15 
+#   - Group 1: Servos 0 to 7
+#   - Group 2: Servos 8 to 15
 # 
 # The script iterates through each group, setting the angle of all servos
 # within that group simultaneously before moving to the next.
@@ -20,7 +19,7 @@ for i in range(16):
     kit.servo[i].set_pulse_width_range(500, 2500)
 
 # Define servo groups (start index, end index)
-groups = [(0, 5), (6, 10), (11, 15)]
+groups = [(0, 7), (6, 15)]
 
 while True:
     for angle in (0, 180):

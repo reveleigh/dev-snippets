@@ -11,6 +11,8 @@
 //
 // Solution:
 
+// Link to docs: https://www.mongodb.com/docs/manual/core/schema-validation/
+
 db.createCollection("posts", {
   validator: {
     $jsonSchema: {

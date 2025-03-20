@@ -11,3 +11,7 @@ pip install folium
 ```
 
 The get_coordinates.py file will generate the vertices of an equalateral triangle given one of the vertices as an input - and assumes that 1 degree of longitude is equal to 45 miles on the ground (which is roughly the case here in Gloucestershire).
+
+## Calculate_triangles.py
+
+Is currently a work in progress. It will eventually produce an array of Triangle objects that can be plotted on a map.

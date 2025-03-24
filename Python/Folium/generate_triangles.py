@@ -117,10 +117,10 @@ def generate_triangles_with_depth(latitude, longitude, side_length_miles, depth)
 
     return triangles
 
-# Example usage
-latitude = 51.709339
-longitude = -2.028522 
-side_length_miles = 1.0
+# Set the starting point, side length, and depth
+latitude = 51.717400
+longitude = -1.967829
+side_length_miles = 4
 depth = 5
 
 triangles = generate_triangles_with_depth(latitude, longitude, side_length_miles, depth)

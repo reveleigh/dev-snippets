@@ -142,7 +142,7 @@ def generate_triangles_with_depth(latitude, longitude, side_length_miles, depth)
 
 
 # Example usage
-triangles = generate_triangles_with_depth(51.717400, -1.967829, 4, 5)
+triangles = generate_triangles_with_depth(50.76948625883613, -13.144881632576398, 4, 5)
 #Ptetty print the coordinates of the triangles
 triangles_co = []
 for triangle in triangles:
@@ -154,3 +154,8 @@ print(f"Number of triangles generated: {len(triangles)}")
 with open("triangles.txt", "w") as f:
     for triangle in triangles_co:
         f.write(f"{triangle},\n")
+
+# print the triangle names, centres and led numbers to file called triangles_info.txt
+with open("triangles_info.txt", "w") as f:
+    for triangle in triangles:
+        f.write(f"Triangle Name: {triangle.get_name()}, LED Numbers: {triangle.get_leds()}, Centre: {triangle.get_centre()}\n")

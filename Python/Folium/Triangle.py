@@ -29,3 +29,7 @@ class Triangle:
     def get_centre(self):
         """Returns the center coordinates of the triangle."""
         return self.centre
+    
+    def set_leds(self, leds):
+        """Sets the LEDs associated with the triangle."""
+        self.leds = leds

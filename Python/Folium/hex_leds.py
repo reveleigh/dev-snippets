@@ -150,6 +150,3 @@ leds = [
     [56, 57],
     [58, 59],
 ]
-
-#Print length of LEDS
-print(len(leds))

@@ -21,7 +21,7 @@ Here in Gloucestershire, UK, one degree of longitude is approximately 45 miles. 
 ## Example hex map generations
 
 If flat sides are selected:
-!()[flat_sides.png](flat_sides.png)
+![flat_sides.png](flat_sides.png)
 
 If flat tops are selected:
-!()[flat_top.png](flat_top.png)
+![flat_top.png](flat_top.png)

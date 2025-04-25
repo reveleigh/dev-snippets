@@ -8,12 +8,12 @@ import datetime
 import os
 
 # Get user requirements
-latitude = float(input("Enter the latitude of the center point: "))
-longitude = float(input("Enter the longitude of the center point: "))
-side_length = float(input("Enter the side length of the triangle in miles: "))
-depth = int(input("Enter the depth of the hexagons: "))
-hex_type = input("Enter the type of hexagon. (flat_top or flat_sides): ").strip().lower()
-miles_per_degree_longitude = float(input("Enter the miles per degree longitude: "))
+latitude = 51 # Example starting latitude
+longitude = -1.9 # Example starting longitude
+side_length = 2.5 # Example side length in miles
+depth = 5 # Example depth of hexagons
+hex_type = "flat_sides" # flat_top or flat_sides
+miles_per_degree_longitude = 45.0  # Default value for miles per degree longitude
 
 
 # Function to calculate the flat top hexagon

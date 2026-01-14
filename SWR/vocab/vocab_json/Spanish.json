@@ -1,0 +1,137 @@
+{
+  "Subject": "Spanish",
+  "Years": [
+    {
+      "Year": 8,
+      "Topics": [
+        {
+          "Term": "",
+          "Topic": "Introducing myself and my family",
+          "KeyVocab": [
+            "Transferable skills",
+            "Language acquisition",
+            "Adjective agreement and position",
+            "Gender",
+            "Sound spelling correspondences"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "School",
+          "KeyVocab": [
+            "Gender",
+            "Articles",
+            "Conditional"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Interests",
+          "KeyVocab": [
+            "Articles",
+            "Singular and plural",
+            "1st and 3rd person reflexive verbs",
+            "Questioning"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Where I Live",
+          "KeyVocab": [
+            "Subject pronouns",
+            "Gender",
+            "Singular/plural"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Festivals (Step Out: Coco)",
+          "KeyVocab": [
+            "Modal verbs",
+            "Religion",
+            "Colonialism"
+          ]
+        }
+      ]
+    },
+    {
+      "Year": 9,
+      "Topics": [
+        {
+          "Term": "",
+          "Topic": "Holidays",
+          "KeyVocab": [
+            "Present tense verbs",
+            "Adjective agreement",
+            "Conjugating",
+            "Past and imperfect tense"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Food and Drink",
+          "KeyVocab": [
+            "Articles",
+            "Negation",
+            "Conditional",
+            "Questioning"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Body and Wellbeing",
+          "KeyVocab": [
+            "Listing",
+            "Reflexive verbs"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Clothes",
+          "KeyVocab": [
+            "Conjugation",
+            "Adjectival agreement",
+            "Singular and plural",
+            "Direct object pronouns"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Jobs",
+          "KeyVocab": [
+            "Gender",
+            "Adjective agreement",
+            "Regular and irregular verbs",
+            "Conditional tense",
+            "Modal verbs",
+            "Curriculum Vitae"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "My Environment",
+          "KeyVocab": [
+            "Conditional",
+            "Regular and irregular verbs",
+            "Articles",
+            "Comparatives",
+            "Modal verbs"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Step Out (La Misma Luna)",
+          "KeyVocab": [
+            "Listening for gist",
+            "Speed reading in the TL",
+            "Colonialism",
+            "Racism",
+            "Empire",
+            "Decolonisation",
+            "Territory"
+          ]
+        }
+      ]
+    }
+  ]
+}

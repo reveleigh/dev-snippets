@@ -1,0 +1,255 @@
+{
+  "Subject": "History",
+  "Years": [
+    {
+      "Year": 7,
+      "Topics": [
+        {
+          "Term": "",
+          "Topic": "Invaders to Britain 0-1000",
+          "KeyVocab": [
+            "Centurion",
+            "Aqueduct",
+            "Invader",
+            "Celtic",
+            "Pagan",
+            "Interpretation",
+            "Valhalla",
+            "Change",
+            "Continuity"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "The Norman Conquest",
+          "KeyVocab": [
+            "Conquer",
+            "Motte and Bailey",
+            "Castle",
+            "Domesday",
+            "Feudal",
+            "Harrying",
+            "Tapestry",
+            "Significance"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "The Middle Ages",
+          "KeyVocab": [
+            "Pilgrimage",
+            "Pilgrim",
+            "Purgatory",
+            "Pope",
+            "Bishops",
+            "Priests",
+            "Monks",
+            "Nuns",
+            "Monastery",
+            "Crusade",
+            "Interpretation",
+            "Primary Source"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Medieval Civilisations",
+          "KeyVocab": [
+            "Trade",
+            "Empire",
+            "Caliph",
+            "Samurai",
+            "Buddhism",
+            "Kimono",
+            "Hajj"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Discovery",
+          "KeyVocab": [
+            "Renaissance",
+            "Discovery",
+            "Spices",
+            "Exploration",
+            "Exploitation",
+            "Aztec",
+            "Enslaved",
+            "Slavery"
+          ]
+        }
+      ]
+    },
+    {
+      "Year": 8,
+      "Topics": [
+        {
+          "Term": "",
+          "Topic": "Life in Tudor England",
+          "KeyVocab": [
+            "Nobility",
+            "Gentry",
+            "Yeoman",
+            "Witchcraft",
+            "Superstition",
+            "Reformation",
+            "Catholic",
+            "Protestant",
+            "Physician",
+            "Puritan",
+            "Culture",
+            "Dissolution",
+            "Sultan"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "‘Were the 1600s a century of chaos?’",
+          "KeyVocab": [
+            "Gunpowder",
+            "Roundhead",
+            "Cavalier",
+            "Divine Right",
+            "Treason",
+            "Republic",
+            "Revolution"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "The British Empire",
+          "KeyVocab": [
+            "Empire",
+            "Influence",
+            "Indigenous",
+            "Native",
+            "Conversion",
+            "Opium",
+            "Loot",
+            "Maxim Gun",
+            "Colony"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "The Transatlantic Slave Trade",
+          "KeyVocab": [
+            "Asante",
+            "Akan Drum",
+            "Triangle Trade",
+            "Dysentery",
+            "Flux",
+            "Brand",
+            "Plantation",
+            "Passive Resistance",
+            "Active Resistance",
+            "Underground Railroad"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "The Industrial Revolution",
+          "KeyVocab": [
+            "Factory",
+            "Domestic",
+            "Cholera",
+            "Cesspit",
+            "Conduit",
+            "Privie",
+            "Back-to-Back Housing",
+            "Canal",
+            "Turnpike Trust"
+          ]
+        }
+      ]
+    },
+    {
+      "Year": 9,
+      "Topics": [
+        {
+          "Term": "",
+          "Topic": "The First World War",
+          "KeyVocab": [
+            "Propaganda",
+            "Alliances",
+            "Imperialism",
+            "Militarism",
+            "Assassination",
+            "Trench",
+            "Fire-step",
+            "Traverse system",
+            "Puttees",
+            "Trench Foot",
+            "Gas",
+            "Conscientious",
+            "Home Front",
+            "Artillery",
+            "Shells",
+            "Rationing",
+            "Blockade",
+            "Treaty",
+            "Armistice"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "The Fight for Rights",
+          "KeyVocab": [
+            "Suffragist",
+            "Suffrage",
+            "Force Feeding",
+            "Jim Crow",
+            "Segregation",
+            "Discrimination",
+            "Prejudice",
+            "Protest",
+            "Civil Rights",
+            "Migration",
+            "Immigrant",
+            "Emigrant",
+            "Refugee",
+            "Asylum Seeker",
+            "Pride"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "The Second World War",
+          "KeyVocab": [
+            "Versailles",
+            "Fascism",
+            "Nazism",
+            "Communism",
+            "Great Depression",
+            "Democracy",
+            "Appeasement",
+            "Blitzkrieg",
+            "Air-Raid",
+            "Evacuation",
+            "Blackout",
+            "Atomic",
+            "Radiation"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "The Holocaust",
+          "KeyVocab": [
+            "Anti-Semitism",
+            "Jewish",
+            "Judaism",
+            "Kristallnacht",
+            "Persecution",
+            "Ghetto",
+            "Concentration Camp",
+            "Labour Camp",
+            "Death Camp",
+            "Resistance",
+            "Collaboration",
+            "Accommodation"
+          ]
+        }
+      ]
+    }
+  ]
+}

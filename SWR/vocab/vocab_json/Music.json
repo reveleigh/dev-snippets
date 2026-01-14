@@ -1,0 +1,185 @@
+{
+  "Subject": "Music",
+  "Years": [
+    {
+      "Year": 7,
+      "Topics": [
+        {
+          "Term": "",
+          "Topic": "The key topics taught in this term. (Change term to topic if appropriate)",
+          "KeyVocab": [
+            "Be encountered"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Rhythms around the World",
+          "KeyVocab": [
+            "Rhythm",
+            "Semiquaver",
+            "Quaver",
+            "Crotchet",
+            "Minim",
+            "Semibreve",
+            "Polyrhythm",
+            "Call",
+            "Response",
+            "Ostinato",
+            "Tempo",
+            "Dynamics",
+            "Syncopation"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Singing and Ukulele",
+          "KeyVocab": [
+            "Vocal Folds",
+            "Chords",
+            "Chord Diagrams",
+            "Tablature",
+            "Major",
+            "Minor"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Elements and Notation",
+          "KeyVocab": [
+            "Notation",
+            "Sharps",
+            "Flats",
+            "Naturals",
+            "Pitch"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Heroes and Villains",
+          "KeyVocab": [
+            "Leitmotif",
+            "Sequence",
+            "Development",
+            "Accompaniment",
+            "Pedal"
+          ]
+        }
+      ]
+    },
+    {
+      "Year": 8,
+      "Topics": [
+        {
+          "Term": "",
+          "Topic": "The key topics taught in this term. (Change term to topic if appropriate)",
+          "KeyVocab": [
+            "Will be encountered"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Western Classical Composers",
+          "KeyVocab": [
+            "Baroque",
+            "Classical",
+            "Romantic",
+            "Bach",
+            "Mozart",
+            "Beethoven"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "The Planets",
+          "KeyVocab": [
+            "Pianissimo",
+            "Fortissimo",
+            "Ascending",
+            "Descending",
+            "Timbre"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "The Blues",
+          "KeyVocab": [
+            "Blues Scale",
+            "12 Bar Blues",
+            "Improvisation",
+            "Structure"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Music of Asia",
+          "KeyVocab": [
+            "Raga",
+            "Tala",
+            "Sitar",
+            "Tanpura",
+            "Tabla",
+            "Drone"
+          ]
+        }
+      ]
+    },
+    {
+      "Year": 9,
+      "Topics": [
+        {
+          "Term": "",
+          "Topic": "The key topics taught in this term. (Change term to topic if appropriate)",
+          "KeyVocab": [
+            "Will be encountered"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Music of the Caribbean",
+          "KeyVocab": [
+            "Skank",
+            "Chord",
+            "Bassline",
+            "Syncopation",
+            "Mento",
+            "Ska",
+            "Rocksteady",
+            "Reggae"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Music for Film and TV",
+          "KeyVocab": [
+            "Synchronisation",
+            "Foley Sounds",
+            "Diegetic",
+            "Non-diegetic",
+            "Sequence",
+            "Cluster Chord"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "My Instrument",
+          "KeyVocab": [
+            "Practice",
+            "Technique",
+            "Fingering"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Popular Music and Songwriting",
+          "KeyVocab": [
+            "Melody",
+            "Harmony",
+            "Accompaniment",
+            "Rhythm Section",
+            "Chord Progression"
+          ]
+        }
+      ]
+    }
+  ]
+}

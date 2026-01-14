@@ -1,0 +1,198 @@
+{
+  "Subject": "French",
+  "Years": [
+    {
+      "Year": 7,
+      "Topics": [
+        {
+          "Term": "",
+          "Topic": "Introductions",
+          "KeyVocab": [
+            "Noun",
+            "Adjective",
+            "Verb",
+            "Phoneme",
+            "Sound-spelling",
+            "Correspondence"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Myself and my family",
+          "KeyVocab": [
+            "Verb tense",
+            "Negation",
+            "Pronouns"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Where I Live",
+          "KeyVocab": [
+            "Gender",
+            "Articles",
+            "Infinitives",
+            "Register"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "My School",
+          "KeyVocab": [
+            "Subject pronouns",
+            "Conjugation",
+            "Conditional tense"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Step Out – Le Petit Prince",
+          "KeyVocab": [
+            "Listening in context",
+            "Gist"
+          ]
+        },
+        {
+          "Term": "Term 6",
+          "Topic": "Free-Time",
+          "KeyVocab": [
+            "1st, 2nd, 3rd person",
+            "Conjugation",
+            "Irregular verbs",
+            "Describing what I like to do"
+          ]
+        }
+      ]
+    },
+    {
+      "Year": 8,
+      "Topics": [
+        {
+          "Term": "",
+          "Topic": "Holidays",
+          "KeyVocab": [
+            "Past tense",
+            "Imperfect tense",
+            "Nationality"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Food and Drink",
+          "KeyVocab": [
+            "Negation",
+            "Articles",
+            "Conjugation",
+            "Conditional",
+            "Currency"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Clothes",
+          "KeyVocab": [
+            "Negation",
+            "Conjugation",
+            "Adjective agreement",
+            "Perfect",
+            "Imperfect"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Interests",
+          "KeyVocab": [
+            "Future tense",
+            "Genre"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Body and Illness",
+          "KeyVocab": [
+            "Describing body parts and illnesses",
+            "Reflexive verbs"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Step Out – Les Choristes (School)",
+          "KeyVocab": [
+            "Describing a film and a school day in the past tense",
+            "Listening in context"
+          ]
+        }
+      ]
+    },
+    {
+      "Year": 9,
+      "Topics": [
+        {
+          "Term": "",
+          "Topic": "All About Me",
+          "KeyVocab": [
+            "Third person",
+            "Irregular verbs",
+            "Possessive pronouns",
+            "Reflexive verbs",
+            "Conjugation"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Colonialism and Empire",
+          "KeyVocab": [
+            "Listening for gist",
+            "Speed reading in the TL",
+            "Colonialism",
+            "Racism",
+            "Empire",
+            "Decolonisation",
+            "Territory"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Jobs",
+          "KeyVocab": [
+            "Omission",
+            "Gender",
+            "Simple future"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Festivals",
+          "KeyVocab": [
+            "Excuses",
+            "Negation",
+            "Past tense"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "My Environment",
+          "KeyVocab": [
+            "Conditional",
+            "Regular",
+            "Irregular verbs",
+            "Articles",
+            "Comparatives",
+            "Modal verbs"
+          ]
+        },
+        {
+          "Term": "Term 6",
+          "Topic": "Free-Time",
+          "KeyVocab": [
+            "Articles",
+            "Gender",
+            "Past Tense",
+            "Justify",
+            "Develop"
+          ]
+        }
+      ]
+    }
+  ]
+}

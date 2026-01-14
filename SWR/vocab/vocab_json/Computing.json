@@ -1,0 +1,258 @@
+{
+  "Subject": "Computing",
+  "Years": [
+    {
+      "Year": 7,
+      "Topics": [
+        {
+          "Term": "",
+          "Topic": "Digital Citizenship",
+          "KeyVocab": [
+            "Grooming",
+            "Social networking",
+            "Reliability",
+            "Privacy",
+            "Cybersecurity",
+            "Hacking"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Algorithm and Computational Thinking",
+          "KeyVocab": [
+            "Computational thinking",
+            "Algorithms",
+            "Decomposition",
+            "Abstraction",
+            "Sequencing",
+            "Selection",
+            "Iteration. Microbit"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Encryption and Code Breaking",
+          "KeyVocab": [
+            "Cryptography",
+            "Encryption",
+            "Cipher",
+            "Algorithms",
+            "Equality"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Programming",
+          "KeyVocab": [
+            "Algorithms",
+            "Decomposition",
+            "Sequencing",
+            "Abstraction",
+            "Variables",
+            "Data types",
+            "Selection",
+            "Iteration",
+            "Arithmetic",
+            "Operators",
+            "Relational operators",
+            "Programming. Else",
+            "Elif",
+            "Syntax"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Information and Spreadsheets",
+          "KeyVocab": [
+            "Cell reference",
+            "Format data",
+            "Formulas",
+            "SUM",
+            "MIN",
+            "MAX",
+            "Filter",
+            "Data",
+            "Information",
+            "Reliability",
+            "Fake news",
+            "Trustworthiness"
+          ]
+        }
+      ]
+    },
+    {
+      "Year": 8,
+      "Topics": [
+        {
+          "Term": "",
+          "Topic": "Digital Citizenship",
+          "KeyVocab": [
+            "Grooming",
+            "Sexting",
+            "Social networking",
+            "Reliability",
+            "Privacy",
+            "Cybersecurity"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Binary and Hexadecimal",
+          "KeyVocab": [
+            "Binary",
+            "Hexadecimal",
+            "Binary shifts",
+            "Digits",
+            "Bits"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Computer Hardware",
+          "KeyVocab": [
+            "Computer systems",
+            "Embedded systems",
+            "General purpose systems",
+            "Motherboard",
+            "CPU",
+            "RAM",
+            "ROM",
+            "Buses",
+            "Magnetic storage",
+            "Solid-state storage"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Computer Networking",
+          "KeyVocab": [
+            "Network",
+            "Topologies",
+            "Star",
+            "Bus",
+            "Protocols",
+            "Wireless",
+            "Wired",
+            "Switch",
+            "Hub",
+            "Server",
+            "Internet",
+            "Local area network",
+            "Wide area",
+            "Personal area networks"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Computational Thinking and Programming",
+          "KeyVocab": [
+            "Strings",
+            "Indexing",
+            "Substring",
+            "Variables",
+            "Concatenation",
+            "Selection",
+            "Iteration (count",
+            "Control",
+            "Condition control)"
+          ]
+        }
+      ]
+    },
+    {
+      "Year": 9,
+      "Topics": [
+        {
+          "Term": "",
+          "Topic": "Binary, Hexadecimal and Data Representation",
+          "KeyVocab": [
+            "Binary",
+            "Hexadecimal",
+            "Binary shifts",
+            "Bits",
+            "Bytes",
+            "ASCII",
+            "Unicode",
+            "Bitmap",
+            "Characters",
+            "Sets",
+            "Pixels",
+            "Sampling",
+            "Sample resolution",
+            "Digital processing",
+            "Analogue",
+            "Digital",
+            "Audio",
+            "Colour depth",
+            "Compression"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Programming",
+          "KeyVocab": [
+            "Integers",
+            "Reals",
+            "Floats",
+            "Variables",
+            "Relational",
+            "Operators",
+            "Boolean operators",
+            "Arithmetic",
+            "Sequencing",
+            "Selection",
+            "Iteration",
+            "Data structure",
+            "Array"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Computational Logic",
+          "KeyVocab": [
+            "Logical operators",
+            "AND",
+            "OR",
+            "NOT",
+            "XOR. Logic",
+            "Gates",
+            "Logical circuits",
+            "Logical expressions",
+            "Boolean logic",
+            "Boolean algebra"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Databases and SQL Introduction",
+          "KeyVocab": [
+            "Database",
+            "Records",
+            "Fields",
+            "Relational",
+            "Databases",
+            "Flat file database",
+            "SQL",
+            "Commands"
+          ]
+        },
+        {
+          "Term": "",
+          "Topic": "Cyber Security",
+          "KeyVocab": [
+            "Cyber Security",
+            "Malware",
+            "Viruses",
+            "Trojans",
+            "Social engineering",
+            "Shouldering",
+            "Blagging",
+            "Phishing",
+            "Pharming",
+            "Penetration testing"
+          ]
+        }
+      ]
+    }
+  ]
+}

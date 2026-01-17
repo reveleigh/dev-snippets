@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Barba.js Demo - Hooks</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body data-barba="wrapper">
+
+    <div class="transition-mask"></div>
+
+    <header>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="page2.html">Page 2</a>
+            <a href="transitions.html">Transitions</a>
+            <a href="hooks.html" class="active">Hooks</a>
+        </nav>
+    </header>
+
+    <main data-barba="container" data-barba-namespace="hooks">
+        <h1>Lifecycle Hooks</h1>
+        
+        <p>Open your browser console (F12) to see lines printed during the transition.</p>
+
+        <div class="lifecycle-viz">
+            <div class="step" id="step-leave">current.leave</div>
+            <div class="arrow">↓</div>
+            <div class="step" id="step-enter">next.enter</div>
+        </div>
+
+        <div class="console-output" id="console-log">
+            <p class="log-entry">Waiting for events...</p>
+        </div>
+
+        <p>Barba provides hooks like:</p>
+        <ul>
+            <li><code>before</code></li>
+            <li><code>beforeLeave</code> / <code>leave</code> / <code>afterLeave</code></li>
+            <li><code>beforeEnter</code> / <code>enter</code> / <code>afterEnter</code></li>
+            <li><code>after</code></li>
+        </ul>
+
+        <a href="index.html" class="btn">Go Home</a>
+    </main>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://unpkg.com/@barba/core"></script>
+    <script src="app.js"></script>
+</body>
+</html>

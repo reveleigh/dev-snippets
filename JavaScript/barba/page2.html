@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Barba.js Demo - Page 2</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body data-barba="wrapper">
+
+    <div class="transition-mask"></div>
+
+    <header>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="page2.html" class="active">Page 2</a>
+            <a href="transitions.html">Transitions</a>
+            <a href="hooks.html">Hooks</a>
+        </nav>
+    </header>
+
+    <main data-barba="container" data-barba-namespace="page2">
+        <h1>Welcome to Page 2</h1>
+        <p>You have successfully transitioned to the second page.</p>
+        <p>Notice how the header didn't reload?</p>
+        <img src="https://picsum.photos/seed/page2/800/300" alt="Random Image">
+    </main>
+
+    <!-- GSAP for animations -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <!-- Barba.js Core -->
+    <script src="https://unpkg.com/@barba/core"></script>
+    
+    <script src="app.js"></script>
+</body>
+</html>

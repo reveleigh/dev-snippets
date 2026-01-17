@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Barba.js Demo - Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body data-barba="wrapper">
+
+    <div class="transition-mask"></div>
+
+    <header>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="page2.html">Page 2</a>
+        </nav>
+    </header>
+
+    <main data-barba="container" data-barba-namespace="home">
+        <h1>Barba.js Interactive Demo</h1>
+        <p class="lead">Explore the capabilities of smooth navigation.</p>
+
+        <div class="grid-menu">
+            <a href="page2.html" class="card">
+                <h3>Standard Page</h3>
+                <p>Basic transition to a second page.</p>
+            </a>
+            <a href="transitions.html" class="card">
+                <h3>Transitions API</h3>
+                <p>See namespace-specific animations.</p>
+            </a>
+            <a href="hooks.html" class="card">
+                <h3>Lifecycle Hooks</h3>
+                <p>Visualize the transition lifecycle events.</p>
+            </a>
+        </div>
+
+        <div class="info-section">
+            <h2>How it works</h2>
+            <p>Barba.js works by hijacking links, fetching the new page via <code>fetch</code>, and swapping the content of <code>data-barba="container"</code> inside <code>data-barba="wrapper"</code>.</p>
+            
+            <div class="code-snippet">
+                <pre>&lt;body data-barba="wrapper"&gt;
+  &lt;!-- Persistent Header --&gt;
+  &lt;main data-barba="container"&gt;
+     &lt;!-- Dynamic Content --&gt;
+  &lt;/main&gt;
+&lt;/body&gt;</pre>
+            </div>
+        </div>
+    </main>
+
+    <!-- GSAP for animations -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <!-- Barba.js Core -->
+    <script src="https://unpkg.com/@barba/core"></script>
+    
+    <script src="app.js"></script>
+</body>
+</html>

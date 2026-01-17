@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GSAP Demo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <section class="hero">
+        <h1 class="title">GSAP Animations</h1>
+        <p class="subtitle">Scroll down to see the magic</p>
+        <div class="box box-hero"></div>
+    </section>
+
+    <section class="trigger-section">
+        <h2>ScrollTrigger: Scrub</h2>
+        <div class="box box-scrub"></div>
+        <p>The box rotates as you scroll.</p>
+    </section>
+
+    <section class="pin-section">
+        <div class="pin-content">
+            <h2>Pinned Section</h2>
+            <p>This section sticks while the image scales.</p>
+            <div class="box box-pin"></div>
+        </div>
+    </section>
+
+    <section class="timeline-section">
+        <h2>Timeline Animation</h2>
+        <div class="timeline-container">
+            <div class="box box-a">A</div>
+            <div class="box box-b">B</div>
+            <div class="box box-c">C</div>
+        </div>
+        <button id="play-timeline">Play Timeline</button>
+    </section>
+
+    <section class="spacer">
+        <h2>End</h2>
+    </section>
+
+    <!-- GSAP Core and Plugins -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>

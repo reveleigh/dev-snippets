@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Barba.js Demo - Transitions</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .slide-demo-box {
+            width: 100px;
+            height: 100px;
+            background: #e17055;
+            margin: 20px 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body data-barba="wrapper">
+
+    <div class="transition-mask"></div>
+    <div class="slide-transition-panel"></div>
+
+    <header>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="page2.html">Page 2</a>
+            <a href="transitions.html" class="active">Transitions</a>
+            <a href="hooks.html">Hooks</a>
+        </nav>
+    </header>
+
+    <main data-barba="container" data-barba-namespace="transitions">
+        <h1>Custom Transitions</h1>
+        
+        <div class="content-block">
+            <h2>Namespace-based Animations</h2>
+            <p>This page uses the <code>transitions</code> namespace. In <code>app.js</code>, we defined a rule:</p>
+            <pre><code>{
+  namespace: 'transitions',
+  enter() { ... // Slide effect }
+}</code></pre>
+            <p>When you navigate <strong>TO</strong> this page, you might see a different effect than the default fade (depending on logic).</p>
+        </div>
+
+        <div class="content-block">
+            <h2>Internal Elements</h2>
+            <p>We can also animate elements inside the container during the transition.</p>
+            <div class="slide-demo-box">Box</div>
+        </div>
+
+        <div class="actions">
+            <a href="index.html" class="btn">Back to Home</a>
+        </div>
+    </main>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://unpkg.com/@barba/core"></script>
+    <script src="app.js"></script>
+</body>
+</html>
